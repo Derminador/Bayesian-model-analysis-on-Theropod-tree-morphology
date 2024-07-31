@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=2;
+Format datatype=Standard symbols="01234" missing=? gap=-;
+Matrix
+Acrocanthosaurus   30
+Aerosteon   34
+Afrovenator   33
+Allosaurus   34
+Angaturama   10
+Australovenator   34
+Baryonyx   33
+Carcharodontosaurus   30
+Ceratosaurus   04
+Chilantaisaurus   34
+Chuandongocoelurus   34
+Coelophysis_bauri   44
+Coelophysis_rhodesiensis   34
+Compsognathus   14
+Concavenator   33
+Condorraptor   32
+Cristatusaurus   13
+Cryolophosaurus   24
+Dilophosaurus   14
+Dilophosaurus_sinensis   34
+Dubreuillosaurus   43
+Duriavenator   33
+Elaphrosaurus   44
+Eocarcharia   14
+Eoraptor   14
+Eustreptospondylus   33
+Fukuiraptor   34
+Giganotosaurus   30
+Herrerasaurus   14
+Irritator   13
+Leshansaurus   33
+Lourinhanosaurus   34
+MSNM_V4047   10
+Magnosaurus   33
+Majungasaurus   44
+Mapusaurus   30
+Marshosaurus   32
+Masiakasaurus   44
+Megalosaurus   33
+Metriacanthosaurus   32
+Monolophosaurus   34
+Neovenator   34
+Ornitholestes   14
+Oxalaia   10
+Piatnitzkysaurus   33
+Piveteausaurus   33
+Proceratosaurus   14
+Saurophaganax   33
+Shaochilong   30
+Shidaisaurus   12
+Siamotyrannus   32
+Sinraptor_dongi   32
+Sinraptor_hepingensis   30
+Suchomimus   33
+Torvosaurus   33
+Tyrannotitan   30
+Yangchuanosaurus_magnus   32
+Yangchuanosaurus_zigongensis   32
+;
+End;
+

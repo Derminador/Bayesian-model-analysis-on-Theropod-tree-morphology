@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=2;
+Format datatype=Standard symbols="01234" missing=? gap=-;
+Matrix
+Acrocanthosaurus   4?
+Aerosteon   ?4
+Afrovenator   04
+Allosaurus   ?4
+Angaturama   21
+Australovenator   ??
+Baryonyx   01
+Carcharodontosaurus   44
+Ceratosaurus   ??
+Chilantaisaurus   ??
+Chuandongocoelurus   44
+Coelophysis_bauri   ?4
+Coelophysis_rhodesiensis   ?4
+Compsognathus   04
+Concavenator   01
+Condorraptor   ??
+Cristatusaurus   2?
+Cryolophosaurus   ??
+Dilophosaurus   04
+Dilophosaurus_sinensis   0?
+Dubreuillosaurus   04
+Duriavenator   04
+Elaphrosaurus   ?3
+Eocarcharia   44
+Eoraptor   ?4
+Eustreptospondylus   0?
+Fukuiraptor   ??
+Giganotosaurus   44
+Herrerasaurus   0?
+Irritator   21
+Leshansaurus   ?4
+Lourinhanosaurus   03
+MSNM_V4047   ?1
+Magnosaurus   ??
+Majungasaurus   ?3
+Mapusaurus   ??
+Marshosaurus   04
+Masiakasaurus   ??
+Megalosaurus   0?
+Metriacanthosaurus   ?4
+Monolophosaurus   04
+Neovenator   ??
+Ornitholestes   ?4
+Oxalaia   ?1
+Piatnitzkysaurus   ??
+Piveteausaurus   04
+Proceratosaurus   0?
+Saurophaganax   ??
+Shaochilong   ?4
+Shidaisaurus   ??
+Siamotyrannus   ??
+Sinraptor_dongi   0?
+Sinraptor_hepingensis   0?
+Suchomimus   ??
+Torvosaurus   ?4
+Tyrannotitan   44
+Yangchuanosaurus_magnus   04
+Yangchuanosaurus_zigongensis   0?
+;
+End;
+

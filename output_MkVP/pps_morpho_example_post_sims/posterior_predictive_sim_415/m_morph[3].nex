@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=4;
+Format datatype=Standard symbols="0123" missing=? gap=-;
+Matrix
+Acrocanthosaurus   2022
+Aerosteon   2121
+Afrovenator   2211
+Allosaurus   2021
+Angaturama   2111
+Australovenator   2021
+Baryonyx   2111
+Carcharodontosaurus   2021
+Ceratosaurus   2121
+Chilantaisaurus   2022
+Chuandongocoelurus   2021
+Coelophysis_bauri   2023
+Coelophysis_rhodesiensis   2323
+Compsognathus   2221
+Concavenator   2023
+Condorraptor   2221
+Cristatusaurus   3111
+Cryolophosaurus   2021
+Dilophosaurus   2323
+Dilophosaurus_sinensis   2323
+Dubreuillosaurus   2211
+Duriavenator   2221
+Elaphrosaurus   2123
+Eocarcharia   2021
+Eoraptor   2023
+Eustreptospondylus   3211
+Fukuiraptor   2021
+Giganotosaurus   2321
+Herrerasaurus   2321
+Irritator   2311
+Leshansaurus   2011
+Lourinhanosaurus   1021
+MSNM_V4047   2111
+Magnosaurus   2211
+Majungasaurus   2123
+Mapusaurus   2011
+Marshosaurus   2221
+Masiakasaurus   2123
+Megalosaurus   2211
+Metriacanthosaurus   2021
+Monolophosaurus   2021
+Neovenator   2021
+Ornitholestes   2221
+Oxalaia   2111
+Piatnitzkysaurus   2221
+Piveteausaurus   2211
+Proceratosaurus   2221
+Saurophaganax   2021
+Shaochilong   1021
+Shidaisaurus   2023
+Siamotyrannus   1011
+Sinraptor_dongi   1011
+Sinraptor_hepingensis   2021
+Suchomimus   2111
+Torvosaurus   2211
+Tyrannotitan   2021
+Yangchuanosaurus_magnus   2021
+Yangchuanosaurus_zigongensis   2021
+;
+End;
+

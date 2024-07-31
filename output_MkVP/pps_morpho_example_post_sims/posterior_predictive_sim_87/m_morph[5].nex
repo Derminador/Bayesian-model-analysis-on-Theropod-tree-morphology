@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   73671
+Aerosteon   73611
+Afrovenator   73711
+Allosaurus   73611
+Angaturama   73711
+Australovenator   73611
+Baryonyx   73711
+Carcharodontosaurus   03671
+Ceratosaurus   73755
+Chilantaisaurus   73611
+Chuandongocoelurus   77751
+Coelophysis_bauri   00758
+Coelophysis_rhodesiensis   00755
+Compsognathus   73711
+Concavenator   73615
+Condorraptor   23711
+Cristatusaurus   73711
+Cryolophosaurus   71751
+Dilophosaurus   70755
+Dilophosaurus_sinensis   73751
+Dubreuillosaurus   73711
+Duriavenator   75711
+Elaphrosaurus   70755
+Eocarcharia   73671
+Eoraptor   70750
+Eustreptospondylus   75711
+Fukuiraptor   73611
+Giganotosaurus   03671
+Herrerasaurus   70750
+Irritator   73711
+Leshansaurus   73811
+Lourinhanosaurus   73711
+MSNM_V4047   73711
+Magnosaurus   23711
+Majungasaurus   73755
+Mapusaurus   03671
+Marshosaurus   63711
+Masiakasaurus   73155
+Megalosaurus   45711
+Metriacanthosaurus   73611
+Monolophosaurus   73751
+Neovenator   73611
+Ornitholestes   73713
+Oxalaia   73711
+Piatnitzkysaurus   63711
+Piveteausaurus   73811
+Proceratosaurus   73711
+Saurophaganax   73611
+Shaochilong   03671
+Shidaisaurus   73615
+Siamotyrannus   73691
+Sinraptor_dongi   73611
+Sinraptor_hepingensis   73611
+Suchomimus   73711
+Torvosaurus   75711
+Tyrannotitan   03671
+Yangchuanosaurus_magnus   73611
+Yangchuanosaurus_zigongensis   73611
+;
+End;
+

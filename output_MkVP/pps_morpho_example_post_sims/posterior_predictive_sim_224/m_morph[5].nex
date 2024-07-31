@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   87960
+Aerosteon   83960
+Afrovenator   84960
+Allosaurus   84963
+Angaturama   84997
+Australovenator   83960
+Baryonyx   84997
+Carcharodontosaurus   81963
+Ceratosaurus   87960
+Chilantaisaurus   83960
+Chuandongocoelurus   84560
+Coelophysis_bauri   84960
+Coelophysis_rhodesiensis   84960
+Compsognathus   84960
+Concavenator   84960
+Condorraptor   84960
+Cristatusaurus   84997
+Cryolophosaurus   84960
+Dilophosaurus   84960
+Dilophosaurus_sinensis   84960
+Dubreuillosaurus   04960
+Duriavenator   82960
+Elaphrosaurus   84460
+Eocarcharia   84960
+Eoraptor   84965
+Eustreptospondylus   84960
+Fukuiraptor   83960
+Giganotosaurus   81960
+Herrerasaurus   34965
+Irritator   84996
+Leshansaurus   84960
+Lourinhanosaurus   84960
+MSNM_V4047   84797
+Magnosaurus   84960
+Majungasaurus   87960
+Mapusaurus   81960
+Marshosaurus   84960
+Masiakasaurus   87960
+Megalosaurus   82960
+Metriacanthosaurus   84060
+Monolophosaurus   84960
+Neovenator   83960
+Ornitholestes   84960
+Oxalaia   84797
+Piatnitzkysaurus   74960
+Piveteausaurus   84960
+Proceratosaurus   89960
+Saurophaganax   84960
+Shaochilong   81960
+Shidaisaurus   84060
+Siamotyrannus   84060
+Sinraptor_dongi   84060
+Sinraptor_hepingensis   84060
+Suchomimus   88997
+Torvosaurus   82960
+Tyrannotitan   81960
+Yangchuanosaurus_magnus   84060
+Yangchuanosaurus_zigongensis   84060
+;
+End;
+

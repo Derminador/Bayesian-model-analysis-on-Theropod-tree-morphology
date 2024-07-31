@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   96962
+Aerosteon   96962
+Afrovenator   96962
+Allosaurus   96962
+Angaturama   96962
+Australovenator   96962
+Baryonyx   93962
+Carcharodontosaurus   96962
+Ceratosaurus   96962
+Chilantaisaurus   96862
+Chuandongocoelurus   96962
+Coelophysis_bauri   96962
+Coelophysis_rhodesiensis   96962
+Compsognathus   96962
+Concavenator   96962
+Condorraptor   96962
+Cristatusaurus   96962
+Cryolophosaurus   96962
+Dilophosaurus   96962
+Dilophosaurus_sinensis   96962
+Dubreuillosaurus   96962
+Duriavenator   96962
+Elaphrosaurus   96964
+Eocarcharia   96962
+Eoraptor   96902
+Eustreptospondylus   96962
+Fukuiraptor   96962
+Giganotosaurus   96962
+Herrerasaurus   96902
+Irritator   96962
+Leshansaurus   96962
+Lourinhanosaurus   96962
+MSNM_V4047   96962
+Magnosaurus   96962
+Majungasaurus   96964
+Mapusaurus   96962
+Marshosaurus   96962
+Masiakasaurus   96964
+Megalosaurus   96962
+Metriacanthosaurus   96962
+Monolophosaurus   96962
+Neovenator   96962
+Ornitholestes   96962
+Oxalaia   96962
+Piatnitzkysaurus   96962
+Piveteausaurus   96962
+Proceratosaurus   96962
+Saurophaganax   96962
+Shaochilong   96962
+Shidaisaurus   86962
+Siamotyrannus   96962
+Sinraptor_dongi   96962
+Sinraptor_hepingensis   96962
+Suchomimus   96962
+Torvosaurus   96962
+Tyrannotitan   96962
+Yangchuanosaurus_magnus   96962
+Yangchuanosaurus_zigongensis   96962
+;
+End;
+

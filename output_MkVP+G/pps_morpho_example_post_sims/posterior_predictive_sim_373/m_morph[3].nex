@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=4;
+Format datatype=Standard symbols="0123" missing=? gap=-;
+Matrix
+Acrocanthosaurus   3023
+Aerosteon   3023
+Afrovenator   2023
+Allosaurus   3023
+Angaturama   2023
+Australovenator   3023
+Baryonyx   2023
+Carcharodontosaurus   3023
+Ceratosaurus   2023
+Chilantaisaurus   3023
+Chuandongocoelurus   2023
+Coelophysis_bauri   2023
+Coelophysis_rhodesiensis   2023
+Compsognathus   0023
+Concavenator   2023
+Condorraptor   2023
+Cristatusaurus   2023
+Cryolophosaurus   2023
+Dilophosaurus   2023
+Dilophosaurus_sinensis   2023
+Dubreuillosaurus   2023
+Duriavenator   2023
+Elaphrosaurus   2020
+Eocarcharia   3023
+Eoraptor   2023
+Eustreptospondylus   2003
+Fukuiraptor   3023
+Giganotosaurus   3023
+Herrerasaurus   2023
+Irritator   2023
+Leshansaurus   2023
+Lourinhanosaurus   3023
+MSNM_V4047   2023
+Magnosaurus   2023
+Majungasaurus   2023
+Mapusaurus   3023
+Marshosaurus   2023
+Masiakasaurus   2020
+Megalosaurus   2003
+Metriacanthosaurus   3023
+Monolophosaurus   2023
+Neovenator   3023
+Ornitholestes   0023
+Oxalaia   2023
+Piatnitzkysaurus   2023
+Piveteausaurus   2023
+Proceratosaurus   0023
+Saurophaganax   3023
+Shaochilong   3023
+Shidaisaurus   3023
+Siamotyrannus   3223
+Sinraptor_dongi   3223
+Sinraptor_hepingensis   3023
+Suchomimus   2023
+Torvosaurus   2003
+Tyrannotitan   3023
+Yangchuanosaurus_magnus   3023
+Yangchuanosaurus_zigongensis   3023
+;
+End;
+

@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   57507
+Aerosteon   57507
+Afrovenator   57508
+Allosaurus   57508
+Angaturama   57508
+Australovenator   57507
+Baryonyx   57508
+Carcharodontosaurus   57507
+Ceratosaurus   67508
+Chilantaisaurus   57507
+Chuandongocoelurus   57508
+Coelophysis_bauri   57008
+Coelophysis_rhodesiensis   57088
+Compsognathus   57508
+Concavenator   07507
+Condorraptor   57508
+Cristatusaurus   57508
+Cryolophosaurus   57508
+Dilophosaurus   57008
+Dilophosaurus_sinensis   57508
+Dubreuillosaurus   57508
+Duriavenator   57508
+Elaphrosaurus   67508
+Eocarcharia   57307
+Eoraptor   57008
+Eustreptospondylus   57508
+Fukuiraptor   57507
+Giganotosaurus   57507
+Herrerasaurus   57008
+Irritator   57508
+Leshansaurus   57508
+Lourinhanosaurus   57508
+MSNM_V4047   57508
+Magnosaurus   57708
+Majungasaurus   67508
+Mapusaurus   57507
+Marshosaurus   57508
+Masiakasaurus   67508
+Megalosaurus   57508
+Metriacanthosaurus   57508
+Monolophosaurus   57508
+Neovenator   59507
+Ornitholestes   57508
+Oxalaia   57508
+Piatnitzkysaurus   57508
+Piveteausaurus   57508
+Proceratosaurus   57508
+Saurophaganax   57508
+Shaochilong   57507
+Shidaisaurus   57508
+Siamotyrannus   57508
+Sinraptor_dongi   57508
+Sinraptor_hepingensis   57508
+Suchomimus   57508
+Torvosaurus   57508
+Tyrannotitan   57507
+Yangchuanosaurus_magnus   57108
+Yangchuanosaurus_zigongensis   57108
+;
+End;
+

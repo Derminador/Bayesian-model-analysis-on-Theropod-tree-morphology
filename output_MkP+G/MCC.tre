@@ -1,0 +1,69 @@
+#NEXUS
+
+	Begin taxa;
+	Dimensions ntax=58;
+	Taxlabels
+		Acrocanthosaurus
+		Aerosteon
+		Afrovenator
+		Allosaurus
+		Angaturama
+		Australovenator
+		Baryonyx
+		Carcharodontosaurus
+		Ceratosaurus
+		Chilantaisaurus
+		Chuandongocoelurus
+		Coelophysis_bauri
+		Coelophysis_rhodesiensis
+		Compsognathus
+		Concavenator
+		Condorraptor
+		Cristatusaurus
+		Cryolophosaurus
+		Dilophosaurus
+		Dilophosaurus_sinensis
+		Dubreuillosaurus
+		Duriavenator
+		Elaphrosaurus
+		Eocarcharia
+		Eoraptor
+		Eustreptospondylus
+		Fukuiraptor
+		Giganotosaurus
+		Herrerasaurus
+		Irritator
+		Leshansaurus
+		Lourinhanosaurus
+		MSNM_V4047
+		Magnosaurus
+		Majungasaurus
+		Mapusaurus
+		Marshosaurus
+		Masiakasaurus
+		Megalosaurus
+		Metriacanthosaurus
+		Monolophosaurus
+		Neovenator
+		Ornitholestes
+		Oxalaia
+		Piatnitzkysaurus
+		Piveteausaurus
+		Proceratosaurus
+		Saurophaganax
+		Shaochilong
+		Shidaisaurus
+		Siamotyrannus
+		Sinraptor_dongi
+		Sinraptor_hepingensis
+		Suchomimus
+		Torvosaurus
+		Tyrannotitan
+		Yangchuanosaurus_magnus
+		Yangchuanosaurus_zigongensis
+		;
+End;
+
+Begin trees;
+tree TREE1 = [&R]((((((((((((((((((MSNM_V4047[&index=21,age_95%_HPD={0.072917,0.640777}]:0.038745,Oxalaia[&index=22,age_95%_HPD={0,0.59119}]:0.046941)[&index=59,posterior=0.778296,age_95%_HPD={0.112229,0.660736}]:0.051670,Angaturama[&index=23,age_95%_HPD={0.094518,0.667039}]:0.027869)[&index=60,posterior=0.797603,age_95%_HPD={0.167029,0.729125}]:0.077021,Irritator[&index=25,age_95%_HPD={0.207952,0.743797}]:0.043113)[&index=61,posterior=0.625166,age_95%_HPD={0.255473,0.787487}]:0.034954,Cristatusaurus[&index=24,age_95%_HPD={0.209381,0.778836}]:0.064716)[&index=62,posterior=0.811585,age_95%_HPD={0.305587,0.805711}]:0.039831,Suchomimus[&index=26,age_95%_HPD={0.31275,0.806694}]:0.023245)[&index=63,posterior=0.452730,age_95%_HPD={0.338296,0.819195}]:0.030270,Baryonyx[&index=20,age_95%_HPD={0.339694,0.837243}]:0.027719)[&index=64,posterior=0.999334,age_95%_HPD={0.376302,0.878435}]:0.289654,(((((Leshansaurus[&index=27,age_95%_HPD={0.480439,0.938972}]:0.053554,Piveteausaurus[&index=28,age_95%_HPD={0.5012,1.00761}]:0.032016)[&index=65,posterior=0.696405,age_95%_HPD={0.556728,1.01967}]:0.041215,Magnosaurus[&index=29,age_95%_HPD={0.562237,1.03574}]:0.013801)[&index=66,posterior=0.264314,age_95%_HPD={0.596559,1.05725}]:0.031111,Dubreuillosaurus[&index=30,age_95%_HPD={0.542493,1.00165}]:0.057356)[&index=67,posterior=0.181758,age_95%_HPD={0.613005,1.05227}]:0.008132,Afrovenator[&index=31,age_95%_HPD={0.607264,1.05508}]:0.017433)[&index=68,posterior=0.646471,age_95%_HPD={0.639441,1.09445}]:0.049968,((Megalosaurus[&index=34,age_95%_HPD={0.49893,0.952439}]:0.059997,Torvosaurus[&index=33,age_95%_HPD={0.490862,0.939207}]:0.054092)[&index=69,posterior=0.982024,age_95%_HPD={0.555904,1.00569}]:0.072587,Eustreptospondylus[&index=35,age_95%_HPD={0.587835,1.02559}]:0.029288)[&index=70,posterior=0.504660,age_95%_HPD={0.615768,1.0617}]:0.046758)[&index=71,posterior=0.252330,age_95%_HPD={0.677144,1.1122}]:0.009193)[&index=72,posterior=0.237683,age_95%_HPD={0.689068,1.10839}]:0.027197,Duriavenator[&index=32,age_95%_HPD={0.610385,1.10814}]:0.083146)[&index=73,posterior=0.986019,age_95%_HPD={0.726463,1.1681}]:0.073107,((Condorraptor[&index=18,age_95%_HPD={0.660179,1.12005}]:0.027700,Piatnitzkysaurus[&index=17,age_95%_HPD={0.681935,1.11668}]:0.020078)[&index=74,posterior=0.589880,age_95%_HPD={0.674171,1.11493}]:0.035960,Marshosaurus[&index=19,age_95%_HPD={0.642033,1.07932}]:0.070131)[&index=75,posterior=0.977364,age_95%_HPD={0.720655,1.1572}]:0.059024)[&index=76,posterior=0.884820,age_95%_HPD={0.807284,1.22037}]:0.046898,((((((((Coelophysis_bauri[&index=39,age_95%_HPD={0.189069,0.502264}]:0.014838,Coelophysis_rhodesiensis[&index=38,age_95%_HPD={0.147841,0.471856}]:0.046282)[&index=77,posterior=0.852197,age_95%_HPD={0.201826,0.522955}]:0.044579,(Eoraptor[&index=41,age_95%_HPD={0,0.248573}]:0.041110,Herrerasaurus[&index=40,age_95%_HPD={0,0.223897}]:0.068964)[&index=78,posterior=1.000000,age_95%_HPD={0.036673,0.2913}]:0.284990)[&index=79,posterior=0.994008,age_95%_HPD={0.261322,0.560528}]:0.108457,Dilophosaurus[&index=37,age_95%_HPD={0.307465,0.642356}]:0.036257)[&index=80,posterior=1.000000,age_95%_HPD={0.342574,0.659448}]:0.169542,(((Elaphrosaurus[&index=45,age_95%_HPD={0,0.338762}]:0.084585,Masiakasaurus[&index=44,age_95%_HPD={0,0.296621}]:0.062424)[&index=81,posterior=0.534621,age_95%_HPD={0.068842,0.357614}]:0.077001,Majungasaurus[&index=43,age_95%_HPD={0.031844,0.392276}]:0.073361)[&index=82,posterior=0.942077,age_95%_HPD={0.132228,0.450433}]:0.156450,Ceratosaurus[&index=42,age_95%_HPD={0.186771,0.556087}]:0.048044)[&index=83,posterior=1.000000,age_95%_HPD={0.256869,0.586315}]:0.257382)[&index=84,posterior=0.680426,age_95%_HPD={0.515683,0.844065}]:0.075125,Cryolophosaurus[&index=47,age_95%_HPD={0.50863,0.921619}]:0.059371)[&index=85,posterior=0.589880,age_95%_HPD={0.57275,0.942254}]:0.057461,Dilophosaurus_sinensis[&index=46,age_95%_HPD={0.511053,0.912973}]:0.112632)[&index=86,posterior=0.998668,age_95%_HPD={0.634853,1.021}]:0.104005,Chuandongocoelurus[&index=36,age_95%_HPD={0.666423,1.09377}]:0.052155)[&index=87,posterior=0.517310,age_95%_HPD={0.732129,1.12167}]:0.041520,Monolophosaurus[&index=48,age_95%_HPD={0.705526,1.11363}]:0.064473)[&index=88,posterior=0.998003,age_95%_HPD={0.771658,1.15224}]:0.087043)[&index=89,posterior=0.992676,age_95%_HPD={0.834494,1.24065}]:0.088375,((Ornitholestes[&index=16,age_95%_HPD={0.728059,1.17887}]:0.050543,Proceratosaurus[&index=15,age_95%_HPD={0.751957,1.2054}]:0.032999)[&index=90,posterior=0.618509,age_95%_HPD={0.799919,1.24626}]:0.034714,Compsognathus[&index=14,age_95%_HPD={0.749228,1.20172}]:0.078023)[&index=91,posterior=0.996671,age_95%_HPD={0.810828,1.26132}]:0.098724)[&index=92,posterior=0.832889,age_95%_HPD={0.940728,1.3545}]:0.062623,Lourinhanosaurus[&index=13,age_95%_HPD={0.925827,1.41065}]:0.034778)[&index=93,posterior=0.814913,age_95%_HPD={0.988978,1.44598}]:0.078730,((((Metriacanthosaurus[&index=9,age_95%_HPD={0.883543,1.3449}]:0.037951,Sinraptor_hepingensis[&index=11,age_95%_HPD={0.89499,1.35289}]:0.023924)[&index=94,posterior=0.324234,age_95%_HPD={0.887438,1.3516}]:0.011752,(Siamotyrannus[&index=10,age_95%_HPD={0.797367,1.2989}]:0.083374,Sinraptor_dongi[&index=8,age_95%_HPD={0.913483,1.36748}]:0.005317)[&index=95,posterior=0.575899,age_95%_HPD={0.892712,1.34858}]:0.021751)[&index=96,posterior=0.948069,age_95%_HPD={0.914444,1.37294}]:0.035824,(Yangchuanosaurus_magnus[&index=6,age_95%_HPD={0.920077,1.37556}]:0.014728,Yangchuanosaurus_zigongensis[&index=7,age_95%_HPD={0.894584,1.36677}]:0.028193)[&index=97,posterior=0.965379,age_95%_HPD={0.93682,1.38957}]:0.030976)[&index=98,posterior=0.432756,age_95%_HPD={0.993423,1.43475}]:0.013054,Shidaisaurus[&index=12,age_95%_HPD={0.861915,1.34297}]:0.095917)[&index=99,posterior=0.779627,age_95%_HPD={0.988592,1.43439}]:0.074158)[&index=100,posterior=0.682423,age_95%_HPD={1.07134,1.50912}]:0.082872,(Allosaurus[&index=51,age_95%_HPD={1.07858,1.54761}]:0.006496,Saurophaganax[&index=52,age_95%_HPD={1.06163,1.54125}]:0.030556)[&index=101,posterior=0.677763,age_95%_HPD={1.08695,1.54975}]:0.031171)[&index=102,posterior=0.612517,age_95%_HPD={1.13204,1.57959}]:0.019368,Concavenator[&index=50,age_95%_HPD={0.796611,1.46849}]:0.232742)[&index=103,posterior=0.569907,age_95%_HPD={1.1712,1.62006}]:0.053771,(((Aerosteon[&index=5,age_95%_HPD={1.00958,1.49217}]:0.032172,Chilantaisaurus[&index=2,age_95%_HPD={0.92971,1.45198}]:0.087510)[&index=104,posterior=0.421438,age_95%_HPD={1.04353,1.50579}]:0.030804,(Australovenator[&index=4,age_95%_HPD={1.01385,1.49547}]:0.015972,Fukuiraptor[&index=3,age_95%_HPD={0.979958,1.48037}]:0.036055)[&index=105,posterior=0.883489,age_95%_HPD={1.02333,1.5162}]:0.051607)[&index=106,posterior=0.608522,age_95%_HPD={1.07506,1.55631}]:0.034411,Neovenator[&index=1,age_95%_HPD={1.02395,1.51238}]:0.055487)[&index=107,posterior=0.889481,age_95%_HPD={1.10263,1.58357}]:0.093549)[&index=108,posterior=0.438083,age_95%_HPD={1.20443,1.65321}]:0.035036,Eocarcharia[&index=49,age_95%_HPD={1.10368,1.64876}]:0.088088)[&index=109,posterior=0.968708,age_95%_HPD={1.23622,1.71827}]:0.082776,((((Carcharodontosaurus[&index=53,age_95%_HPD={1.13294,1.6342}]:0.043863,Mapusaurus[&index=55,age_95%_HPD={1.17451,1.67068}]:0.011961)[&index=110,posterior=0.125832,age_95%_HPD={1.23407,1.6923}]:0.003346,Giganotosaurus[&index=54,age_95%_HPD={1.18701,1.67615}]:0.007402)[&index=111,posterior=0.187084,age_95%_HPD={1.19414,1.64596}]:0.010581,Tyrannotitan[&index=56,age_95%_HPD={1.15801,1.66539}]:0.026192)[&index=112,posterior=0.630493,age_95%_HPD={1.18415,1.67408}]:0.027408,Shaochilong[&index=57,age_95%_HPD={1.13303,1.65202}]:0.088630)[&index=113,posterior=0.987350,age_95%_HPD={1.24208,1.73231}]:0.074200,Acrocanthosaurus[&index=58,age_95%_HPD={1.30304,1.79539}]:0.016801)[&index=114,posterior=1.000000,age_95%_HPD={1.30277,1.79133}]:0.000000;
+End;

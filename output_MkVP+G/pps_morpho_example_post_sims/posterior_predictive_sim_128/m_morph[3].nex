@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=4;
+Format datatype=Standard symbols="0123" missing=? gap=-;
+Matrix
+Acrocanthosaurus   0033
+Aerosteon   0033
+Afrovenator   0032
+Allosaurus   0033
+Angaturama   0012
+Australovenator   0033
+Baryonyx   0012
+Carcharodontosaurus   2033
+Ceratosaurus   0033
+Chilantaisaurus   0033
+Chuandongocoelurus   0033
+Coelophysis_bauri   0033
+Coelophysis_rhodesiensis   0033
+Compsognathus   0033
+Concavenator   0033
+Condorraptor   0032
+Cristatusaurus   0012
+Cryolophosaurus   0033
+Dilophosaurus   0033
+Dilophosaurus_sinensis   0033
+Dubreuillosaurus   0032
+Duriavenator   0032
+Elaphrosaurus   0033
+Eocarcharia   0033
+Eoraptor   0033
+Eustreptospondylus   0032
+Fukuiraptor   0033
+Giganotosaurus   2033
+Herrerasaurus   0033
+Irritator   0002
+Leshansaurus   0032
+Lourinhanosaurus   0033
+MSNM_V4047   0012
+Magnosaurus   0032
+Majungasaurus   0033
+Mapusaurus   2033
+Marshosaurus   0032
+Masiakasaurus   0033
+Megalosaurus   2032
+Metriacanthosaurus   0003
+Monolophosaurus   0333
+Neovenator   0033
+Ornitholestes   0033
+Oxalaia   0012
+Piatnitzkysaurus   0032
+Piveteausaurus   3032
+Proceratosaurus   0033
+Saurophaganax   0033
+Shaochilong   2033
+Shidaisaurus   0033
+Siamotyrannus   0033
+Sinraptor_dongi   0033
+Sinraptor_hepingensis   0033
+Suchomimus   0012
+Torvosaurus   0032
+Tyrannotitan   2033
+Yangchuanosaurus_magnus   0033
+Yangchuanosaurus_zigongensis   0033
+;
+End;
+

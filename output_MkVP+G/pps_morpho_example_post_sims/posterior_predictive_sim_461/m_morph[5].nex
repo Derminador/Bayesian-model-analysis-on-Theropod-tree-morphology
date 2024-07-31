@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   77456
+Aerosteon   77476
+Afrovenator   77476
+Allosaurus   77476
+Angaturama   77776
+Australovenator   77476
+Baryonyx   77476
+Carcharodontosaurus   77456
+Ceratosaurus   77479
+Chilantaisaurus   77476
+Chuandongocoelurus   77476
+Coelophysis_bauri   77476
+Coelophysis_rhodesiensis   77476
+Compsognathus   77476
+Concavenator   77476
+Condorraptor   77476
+Cristatusaurus   77476
+Cryolophosaurus   77476
+Dilophosaurus   77476
+Dilophosaurus_sinensis   77476
+Dubreuillosaurus   77476
+Duriavenator   77476
+Elaphrosaurus   77479
+Eocarcharia   77476
+Eoraptor   77456
+Eustreptospondylus   77476
+Fukuiraptor   77476
+Giganotosaurus   77456
+Herrerasaurus   77456
+Irritator   77476
+Leshansaurus   77476
+Lourinhanosaurus   77476
+MSNM_V4047   77476
+Magnosaurus   77476
+Majungasaurus   77479
+Mapusaurus   77456
+Marshosaurus   75476
+Masiakasaurus   77479
+Megalosaurus   77476
+Metriacanthosaurus   77476
+Monolophosaurus   77476
+Neovenator   77476
+Ornitholestes   77476
+Oxalaia   77476
+Piatnitzkysaurus   77476
+Piveteausaurus   77476
+Proceratosaurus   77476
+Saurophaganax   77476
+Shaochilong   77456
+Shidaisaurus   77476
+Siamotyrannus   77476
+Sinraptor_dongi   77476
+Sinraptor_hepingensis   77476
+Suchomimus   77476
+Torvosaurus   17476
+Tyrannotitan   77456
+Yangchuanosaurus_magnus   77476
+Yangchuanosaurus_zigongensis   77476
+;
+End;
+

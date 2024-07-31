@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   77820
+Aerosteon   77820
+Afrovenator   77820
+Allosaurus   77820
+Angaturama   77820
+Australovenator   77820
+Baryonyx   77820
+Carcharodontosaurus   77820
+Ceratosaurus   17826
+Chilantaisaurus   97820
+Chuandongocoelurus   17820
+Coelophysis_bauri   11815
+Coelophysis_rhodesiensis   11815
+Compsognathus   77820
+Concavenator   77820
+Condorraptor   77820
+Cristatusaurus   77820
+Cryolophosaurus   17816
+Dilophosaurus   17815
+Dilophosaurus_sinensis   17826
+Dubreuillosaurus   77820
+Duriavenator   77820
+Elaphrosaurus   10326
+Eocarcharia   77820
+Eoraptor   11815
+Eustreptospondylus   77820
+Fukuiraptor   77820
+Giganotosaurus   77820
+Herrerasaurus   11815
+Irritator   77820
+Leshansaurus   77820
+Lourinhanosaurus   77820
+MSNM_V4047   77820
+Magnosaurus   77820
+Majungasaurus   17826
+Mapusaurus   77820
+Marshosaurus   77820
+Masiakasaurus   17826
+Megalosaurus   77823
+Metriacanthosaurus   77820
+Monolophosaurus   17820
+Neovenator   77820
+Ornitholestes   77820
+Oxalaia   77820
+Piatnitzkysaurus   77820
+Piveteausaurus   77820
+Proceratosaurus   77820
+Saurophaganax   77820
+Shaochilong   77820
+Shidaisaurus   77820
+Siamotyrannus   77820
+Sinraptor_dongi   77820
+Sinraptor_hepingensis   77820
+Suchomimus   77820
+Torvosaurus   77820
+Tyrannotitan   77820
+Yangchuanosaurus_magnus   77820
+Yangchuanosaurus_zigongensis   77820
+;
+End;
+

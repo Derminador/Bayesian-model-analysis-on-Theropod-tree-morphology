@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   46982
+Aerosteon   46982
+Afrovenator   46982
+Allosaurus   46982
+Angaturama   46982
+Australovenator   44982
+Baryonyx   46982
+Carcharodontosaurus   46982
+Ceratosaurus   46988
+Chilantaisaurus   46982
+Chuandongocoelurus   46982
+Coelophysis_bauri   46982
+Coelophysis_rhodesiensis   46982
+Compsognathus   46982
+Concavenator   42982
+Condorraptor   46982
+Cristatusaurus   46982
+Cryolophosaurus   46982
+Dilophosaurus   46982
+Dilophosaurus_sinensis   46982
+Dubreuillosaurus   46982
+Duriavenator   46982
+Elaphrosaurus   46988
+Eocarcharia   46982
+Eoraptor   46982
+Eustreptospondylus   46982
+Fukuiraptor   44982
+Giganotosaurus   46982
+Herrerasaurus   46982
+Irritator   46982
+Leshansaurus   46982
+Lourinhanosaurus   46982
+MSNM_V4047   46982
+Magnosaurus   46982
+Majungasaurus   46988
+Mapusaurus   46982
+Marshosaurus   46982
+Masiakasaurus   16988
+Megalosaurus   46982
+Metriacanthosaurus   46982
+Monolophosaurus   46982
+Neovenator   46982
+Ornitholestes   46982
+Oxalaia   46982
+Piatnitzkysaurus   46982
+Piveteausaurus   46302
+Proceratosaurus   46982
+Saurophaganax   46982
+Shaochilong   46982
+Shidaisaurus   46982
+Siamotyrannus   46982
+Sinraptor_dongi   46982
+Sinraptor_hepingensis   46982
+Suchomimus   46982
+Torvosaurus   46982
+Tyrannotitan   46982
+Yangchuanosaurus_magnus   46982
+Yangchuanosaurus_zigongensis   46982
+;
+End;
+

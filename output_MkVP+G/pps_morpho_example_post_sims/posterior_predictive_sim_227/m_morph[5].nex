@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   51632
+Aerosteon   51632
+Afrovenator   51632
+Allosaurus   51632
+Angaturama   51612
+Australovenator   51632
+Baryonyx   51632
+Carcharodontosaurus   51632
+Ceratosaurus   51632
+Chilantaisaurus   51632
+Chuandongocoelurus   51632
+Coelophysis_bauri   51633
+Coelophysis_rhodesiensis   51632
+Compsognathus   31632
+Concavenator   51632
+Condorraptor   51632
+Cristatusaurus   51632
+Cryolophosaurus   51632
+Dilophosaurus   51632
+Dilophosaurus_sinensis   51632
+Dubreuillosaurus   51632
+Duriavenator   51632
+Elaphrosaurus   51832
+Eocarcharia   51632
+Eoraptor   51632
+Eustreptospondylus   51632
+Fukuiraptor   51632
+Giganotosaurus   51632
+Herrerasaurus   51632
+Irritator   51612
+Leshansaurus   51632
+Lourinhanosaurus   51632
+MSNM_V4047   51612
+Magnosaurus   51632
+Majungasaurus   51832
+Mapusaurus   51632
+Marshosaurus   51632
+Masiakasaurus   51832
+Megalosaurus   51632
+Metriacanthosaurus   50632
+Monolophosaurus   51632
+Neovenator   51632
+Ornitholestes   31632
+Oxalaia   51612
+Piatnitzkysaurus   51632
+Piveteausaurus   51632
+Proceratosaurus   31632
+Saurophaganax   51632
+Shaochilong   51632
+Shidaisaurus   50632
+Siamotyrannus   50632
+Sinraptor_dongi   50632
+Sinraptor_hepingensis   50632
+Suchomimus   51632
+Torvosaurus   51632
+Tyrannotitan   51632
+Yangchuanosaurus_magnus   50632
+Yangchuanosaurus_zigongensis   50632
+;
+End;
+

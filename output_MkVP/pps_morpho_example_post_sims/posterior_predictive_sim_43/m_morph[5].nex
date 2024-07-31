@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   81278
+Aerosteon   81278
+Afrovenator   81278
+Allosaurus   81578
+Angaturama   81078
+Australovenator   81278
+Baryonyx   81278
+Carcharodontosaurus   81278
+Ceratosaurus   46978
+Chilantaisaurus   81278
+Chuandongocoelurus   41278
+Coelophysis_bauri   49078
+Coelophysis_rhodesiensis   49078
+Compsognathus   81270
+Concavenator   84278
+Condorraptor   81278
+Cristatusaurus   81278
+Cryolophosaurus   49078
+Dilophosaurus   49078
+Dilophosaurus_sinensis   49088
+Dubreuillosaurus   81278
+Duriavenator   81278
+Elaphrosaurus   64678
+Eocarcharia   80278
+Eoraptor   99179
+Eustreptospondylus   81278
+Fukuiraptor   81278
+Giganotosaurus   81278
+Herrerasaurus   99179
+Irritator   81278
+Leshansaurus   81208
+Lourinhanosaurus   81270
+MSNM_V4047   81078
+Magnosaurus   81278
+Majungasaurus   44978
+Mapusaurus   81278
+Marshosaurus   81278
+Masiakasaurus   45978
+Megalosaurus   81278
+Metriacanthosaurus   81878
+Monolophosaurus   41278
+Neovenator   81278
+Ornitholestes   81270
+Oxalaia   81078
+Piatnitzkysaurus   81278
+Piveteausaurus   81278
+Proceratosaurus   81270
+Saurophaganax   81678
+Shaochilong   81278
+Shidaisaurus   81278
+Siamotyrannus   81278
+Sinraptor_dongi   81278
+Sinraptor_hepingensis   81278
+Suchomimus   81278
+Torvosaurus   81278
+Tyrannotitan   81278
+Yangchuanosaurus_magnus   88278
+Yangchuanosaurus_zigongensis   81275
+;
+End;
+

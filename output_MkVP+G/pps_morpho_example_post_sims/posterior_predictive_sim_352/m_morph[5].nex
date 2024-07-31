@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   06022
+Aerosteon   06322
+Afrovenator   06322
+Allosaurus   06322
+Angaturama   06322
+Australovenator   06322
+Baryonyx   06322
+Carcharodontosaurus   06022
+Ceratosaurus   06322
+Chilantaisaurus   06322
+Chuandongocoelurus   06322
+Coelophysis_bauri   06322
+Coelophysis_rhodesiensis   06322
+Compsognathus   06522
+Concavenator   06322
+Condorraptor   06322
+Cristatusaurus   06322
+Cryolophosaurus   06322
+Dilophosaurus   06322
+Dilophosaurus_sinensis   06322
+Dubreuillosaurus   06322
+Duriavenator   06322
+Elaphrosaurus   08322
+Eocarcharia   06022
+Eoraptor   06322
+Eustreptospondylus   06322
+Fukuiraptor   56322
+Giganotosaurus   06022
+Herrerasaurus   06322
+Irritator   06322
+Leshansaurus   06322
+Lourinhanosaurus   06322
+MSNM_V4047   06322
+Magnosaurus   06322
+Majungasaurus   06322
+Mapusaurus   06022
+Marshosaurus   06322
+Masiakasaurus   08322
+Megalosaurus   06342
+Metriacanthosaurus   06322
+Monolophosaurus   06322
+Neovenator   06322
+Ornitholestes   06322
+Oxalaia   06322
+Piatnitzkysaurus   06322
+Piveteausaurus   06322
+Proceratosaurus   06322
+Saurophaganax   06322
+Shaochilong   06022
+Shidaisaurus   06322
+Siamotyrannus   06322
+Sinraptor_dongi   06322
+Sinraptor_hepingensis   06322
+Suchomimus   06322
+Torvosaurus   06322
+Tyrannotitan   06022
+Yangchuanosaurus_magnus   06326
+Yangchuanosaurus_zigongensis   06326
+;
+End;
+

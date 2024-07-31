@@ -1,0 +1,67 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=58 nchar=5;
+Format datatype=Standard symbols="0123456789" missing=? gap=-;
+Matrix
+Acrocanthosaurus   10768
+Aerosteon   00768
+Afrovenator   10798
+Allosaurus   10768
+Angaturama   10798
+Australovenator   00768
+Baryonyx   10798
+Carcharodontosaurus   12768
+Ceratosaurus   14798
+Chilantaisaurus   00768
+Chuandongocoelurus   10798
+Coelophysis_bauri   10798
+Coelophysis_rhodesiensis   10798
+Compsognathus   10708
+Concavenator   10793
+Condorraptor   10798
+Cristatusaurus   10798
+Cryolophosaurus   10798
+Dilophosaurus   10798
+Dilophosaurus_sinensis   10798
+Dubreuillosaurus   10798
+Duriavenator   10798
+Elaphrosaurus   14798
+Eocarcharia   10768
+Eoraptor   10798
+Eustreptospondylus   10728
+Fukuiraptor   00768
+Giganotosaurus   10768
+Herrerasaurus   10798
+Irritator   10798
+Leshansaurus   10798
+Lourinhanosaurus   10798
+MSNM_V4047   10298
+Magnosaurus   10798
+Majungasaurus   14798
+Mapusaurus   10768
+Marshosaurus   10798
+Masiakasaurus   14798
+Megalosaurus   10798
+Metriacanthosaurus   10798
+Monolophosaurus   10798
+Neovenator   00768
+Ornitholestes   10798
+Oxalaia   10298
+Piatnitzkysaurus   10798
+Piveteausaurus   10798
+Proceratosaurus   10798
+Saurophaganax   10768
+Shaochilong   10768
+Shidaisaurus   10798
+Siamotyrannus   10798
+Sinraptor_dongi   10798
+Sinraptor_hepingensis   10798
+Suchomimus   10798
+Torvosaurus   10798
+Tyrannotitan   10768
+Yangchuanosaurus_magnus   10798
+Yangchuanosaurus_zigongensis   10798
+;
+End;
+
